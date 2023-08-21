@@ -1,0 +1,82 @@
+[18-Aug-2023 19:36:08 UTC] PHP Warning:  require(phpmailer/Exception.php): failed to open stream: No such file or directory in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 6
+[18-Aug-2023 19:36:08 UTC] PHP Warning:  require(phpmailer/Exception.php): failed to open stream: No such file or directory in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 6
+[18-Aug-2023 19:36:08 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 6
+[18-Aug-2023 19:39:14 UTC] PHP Warning:  require(phpmailer/Exception.php): failed to open stream: No such file or directory in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 6
+[18-Aug-2023 19:39:14 UTC] PHP Warning:  require(phpmailer/Exception.php): failed to open stream: No such file or directory in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 6
+[18-Aug-2023 19:39:14 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 6
+[20-Aug-2023 18:23:25 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 118
+[20-Aug-2023 18:28:52 Etc/UTC] estamos por aqui 
+[20-Aug-2023 18:29:42 Etc/UTC] estamos por aqui 
+[20-Aug-2023 18:31:31 Etc/UTC] estamos por aqui 
+[21-Aug-2023 02:00:16 UTC] Array
+(
+    [name] => Maycol Inga peña
+    [email] => maycolingapena@gmail.com
+    [phone] => 925861298
+    [message] => sadasdasdadsadsadsdsads
+    [form-type] => contact
+    [counter] => 0
+)
+
+[21-Aug-2023 02:00:57 UTC] Array
+(
+    [name] => Maycol Inga peña
+    [email] => maycolingapena@gmail.com
+    [phone] => 925861298
+    [message] => asddaadasasddaddadsadsadsa
+    [form-type] => contact
+    [counter] => 0
+)
+
+[21-Aug-2023 02:03:32 UTC] Array
+(
+    [name] => Maycol Inga peña
+    [email] => maycolingapena@gmail.com
+    [phone] => 925861298
+    [message] => adsadsasddasadsdsasdads
+    [form-type] => contact
+    [counter] => 0
+)
+
+[21-Aug-2023 02:04:03 UTC] Array
+(
+    [name] => Maycol Inga peña
+    [email] => maycolingapena@gmail.com
+    [phone] => 925861298
+    [message] => dassadasdsdasds
+    [form-type] => contact
+    [counter] => 0
+)
+
+[21-Aug-2023 02:08:03 UTC] Array
+(
+    [name] => Maycol Inga peña
+    [email] => maycolingapena@gmail.com
+    [phone] => 925861298
+    [message] => adsdasasdasddasasd
+    [form-type] => contact
+    [counter] => 0
+)
+
+[21-Aug-2023 02:12:51 UTC] Array
+(
+    [name] => Maycol Inga peña
+    [email] => maycolingapena@gmail.com
+    [phone] => 925861298
+    [message] => adssadasdasdasddsasd
+    [form-type] => contact
+    [counter] => 0
+)
+
+[21-Aug-2023 02:58:29 Etc/UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home2/solgrasssintetic/public_html/bat/rd-mailform.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 85
+[21-Aug-2023 03:07:41 Etc/UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home2/solgrasssintetic/public_html/bat/rd-mailform.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 85
+[21-Aug-2023 03:21:30 Etc/UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home2/solgrasssintetic/public_html/bat/rd-mailform.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/solgrasssintetic/public_html/bat/rd-mailform.php on line 85
